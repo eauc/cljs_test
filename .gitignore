@@ -1,2 +1,4 @@
 out
 .repl-*
+node_modules
+main.js
