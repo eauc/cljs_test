@@ -5,3 +5,4 @@ main.js
 target
 repl
 .*repl
+*.log

@@ -9,4 +9,4 @@
 (println "Hello, world!")
 
 (defn foo [a b]
-  (+ a b))
+  (* a b))
