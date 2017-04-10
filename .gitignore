@@ -2,3 +2,6 @@ out
 .repl-*
 node_modules
 main.js
+target
+repl
+.*repl
